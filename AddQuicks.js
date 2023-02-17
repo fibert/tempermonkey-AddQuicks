@@ -7,6 +7,7 @@
 // @match        https://www.google.com/
 // @include      https://www.google.com/*
 // @include      https://www.google.co.il/*
+// @exclude      https://www.google.com/search*
 // @grant        none
 // @require      http://code.jquery.com/jquery-3.3.1.slim.min.js
 // ==/UserScript==
